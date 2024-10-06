@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This project has been **moved** to [`JuliaAstro/EphemerisSources.jl`](https://github.com/JuliaAstro/EphemerisSources.jl).
+> The package name and UUID have not changed. 
+
 [![Tests](https://github.com/cadojo/AstrodynamicalSolvers.jl/workflows/Tests/badge.svg)](https://github.com/cadojo/AstrodynamicalSolvers.jl/actions?query=workflow%3ATests)
 [![Docs](https://github.com/cadojo/AstrodynamicalSolvers.jl/workflows/Documentation/badge.svg)](https://cadojo.github.io/AstrodynamicalSolvers.jl)
 
